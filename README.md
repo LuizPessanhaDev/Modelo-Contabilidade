@@ -13,9 +13,3 @@
 # Sobre o Modelo
 Projeto individual, Modelo de Site Responsivo de Contabilidade, criado a base de HTML5, CSS3, Bootstrap e JavaScript, abrangendo recursos como Flex-Box, Media Queries, Barra de Navegação Líquida, Imagens com resoluções Fluídas, entre outros recursos.
 (Disponível em Monitores de PC, Smartphones)
-
-<br>
-Link: https://luizdev271.github.io/Modelo-Contabilidade/
-<br>
-<br>
-Inspiração: https://www.behance.net/gallery/198507147/Site-Institucional-Contabilidade-MScont/modules/1124626531
